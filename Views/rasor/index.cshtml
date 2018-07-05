@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset='utf-8'>
+        <title>Razor Fun</title>
+    </head>
+    <body>
+        @{
+            string[] sArr=new string[]{"Ali","Carter","Rose","Zach","Cameron"};
+            foreach (var item in sArr)
+            {
+                
+                @if(item[0]=='C'){
+                    <p style ="color: red">@item</p>    
+                }
+                else
+                {
+                <p>@item</p>    
+                    
+                }
+            }
+         
+          
+        }
+           
+    </body>
+</html>

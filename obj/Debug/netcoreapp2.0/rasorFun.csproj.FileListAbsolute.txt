@@ -1,0 +1,11 @@
+/home/ali/codingDojo/c#/rasorFun/bin/Debug/netcoreapp2.0/rasorFun.deps.json
+/home/ali/codingDojo/c#/rasorFun/bin/Debug/netcoreapp2.0/rasorFun.runtimeconfig.json
+/home/ali/codingDojo/c#/rasorFun/bin/Debug/netcoreapp2.0/rasorFun.runtimeconfig.dev.json
+/home/ali/codingDojo/c#/rasorFun/bin/Debug/netcoreapp2.0/rasorFun.dll
+/home/ali/codingDojo/c#/rasorFun/bin/Debug/netcoreapp2.0/rasorFun.pdb
+/home/ali/codingDojo/c#/rasorFun/obj/Debug/netcoreapp2.0/rasorFun.csprojResolveAssemblyReference.cache
+/home/ali/codingDojo/c#/rasorFun/obj/Debug/netcoreapp2.0/rasorFun.csproj.CoreCompileInputs.cache
+/home/ali/codingDojo/c#/rasorFun/obj/Debug/netcoreapp2.0/rasorFun.AssemblyInfoInputs.cache
+/home/ali/codingDojo/c#/rasorFun/obj/Debug/netcoreapp2.0/rasorFun.AssemblyInfo.cs
+/home/ali/codingDojo/c#/rasorFun/obj/Debug/netcoreapp2.0/rasorFun.dll
+/home/ali/codingDojo/c#/rasorFun/obj/Debug/netcoreapp2.0/rasorFun.pdb
